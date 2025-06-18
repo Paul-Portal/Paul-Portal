@@ -4,7 +4,7 @@
 
 <img 
   align="right" 
-  width=400px 
+  width=300px 
   alt="Unicorn" 
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDd2eDM2amQ2Nzl2cXVpdGw2c2gyeTZnb2dnM3pkZnRydThzcGExdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" 
 />
